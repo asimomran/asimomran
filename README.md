@@ -24,7 +24,7 @@ ________________________________________________________________________________
 
 Tools & Tech Iam working with 
 
-
+<ul>
 Languages:  Java, Python 3, SQL, Bash
 
 Cloud & Infra:  AWS (EC2, Lambda, S3, VPC, API Gateway, IAM), Docker, Kubernetes (K8s), Cloudflare Tunnel
@@ -36,6 +36,6 @@ Frameworks:  Spring Boot (REST APIs), OpenRouter API
 Networking:  Cisco Packet Tracer, Wireshark, TCP/IP, HTTP/HTTPS, Reverse Proxy
 
 Tools:  Linux (Kali, Ubuntu), Postman, Git, GitHub
-
+</ul>
 
 
