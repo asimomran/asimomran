@@ -22,7 +22,7 @@ I use cloud sevices(AWS), python, docker, linux mainly .
 
 _____________________________________________________________________________________________________________________________________________
 
-Tools & Tech Iam working with 
+Tools & Tech 
 
 <ul>
   
